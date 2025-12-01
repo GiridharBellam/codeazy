@@ -45,3 +45,4 @@ const extraPeople= [
 const combine=[...people,extraPeople];
 console.log("combined",combine);
 //spread operator is used to copy or keep the original safe.🙌
+//end of assignment
